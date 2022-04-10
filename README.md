@@ -4,12 +4,12 @@
 run ```nix_tts_api.ipynb``` on colab and copy the url and past in ```my_clinet.py``` in variable ```app_url="<>"```
 <br>
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bmox/blender-bot/blob/main/nix_tts_api.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/android-iceland/blender-bot/blob/main/nix_tts_api.ipynb)
 
 
  run ```blender_bot_with_gradio_api.ipynb``` on colab and copy the url and past in ```my_clinet.py``` in variable ```blender_bot_app_url="<>"```
  <br>
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bmox/blender-bot/blob/main/blender_bot_with_gradio_api.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/android-iceland/blender-bot/blob/main/blender_bot_with_gradio_api.ipynb)
 
 <br>
 
