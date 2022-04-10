@@ -1,0 +1,8 @@
+pyglet
+googletrans==3.1.0a0
+speechrecognition
+PyAudio
+cryptography
+pyperclip
+clipboard
+rich
